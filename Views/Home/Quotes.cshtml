@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Here are the awesome quotes!";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+@{
+  @foreach(var quote in ViewBag.AllQuotes)
+  {
+      // <p> @string.Join(",", quote)</p>
+      <p> "@quote["quote"]"</p>
+      <p id="quote" style="margin-left: 15px;">@quote["name"] at @quote["created_at"].ToString("hh:mm tt on MMMM dd, yyy")</p>
+      <hr>
+  }
+}
+ <div class="form-group">
+    <div class="col-sm-offset-2 col-sm-10">
+     <a href="/"><button type="submit" class="btn btn-default">Go Back!</button></a> 
+    </div>
+  </div>

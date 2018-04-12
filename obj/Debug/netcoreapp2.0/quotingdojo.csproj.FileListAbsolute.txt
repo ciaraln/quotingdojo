@@ -1,0 +1,10 @@
+C:\Users\ciara\Documents\CodingDojo\c#\aspnetCore\quotingdojo\bin\Debug\netcoreapp2.0\quotingdojo.deps.json
+C:\Users\ciara\Documents\CodingDojo\c#\aspnetCore\quotingdojo\bin\Debug\netcoreapp2.0\quotingdojo.runtimeconfig.json
+C:\Users\ciara\Documents\CodingDojo\c#\aspnetCore\quotingdojo\bin\Debug\netcoreapp2.0\quotingdojo.runtimeconfig.dev.json
+C:\Users\ciara\Documents\CodingDojo\c#\aspnetCore\quotingdojo\bin\Debug\netcoreapp2.0\quotingdojo.dll
+C:\Users\ciara\Documents\CodingDojo\c#\aspnetCore\quotingdojo\bin\Debug\netcoreapp2.0\quotingdojo.pdb
+C:\Users\ciara\Documents\CodingDojo\c#\aspnetCore\quotingdojo\obj\Debug\netcoreapp2.0\quotingdojo.csproj.CoreCompileInputs.cache
+C:\Users\ciara\Documents\CodingDojo\c#\aspnetCore\quotingdojo\obj\Debug\netcoreapp2.0\quotingdojo.AssemblyInfoInputs.cache
+C:\Users\ciara\Documents\CodingDojo\c#\aspnetCore\quotingdojo\obj\Debug\netcoreapp2.0\quotingdojo.AssemblyInfo.cs
+C:\Users\ciara\Documents\CodingDojo\c#\aspnetCore\quotingdojo\obj\Debug\netcoreapp2.0\quotingdojo.dll
+C:\Users\ciara\Documents\CodingDojo\c#\aspnetCore\quotingdojo\obj\Debug\netcoreapp2.0\quotingdojo.pdb
